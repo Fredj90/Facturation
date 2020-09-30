@@ -1,0 +1,1408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{92064B03-59CB-43C4-B6F9-502D86B1CD14}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EPME</RootNamespace>
+    <AssemblyName>EPME</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=10.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\DotNetBar for Windows Forms\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.3.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="contact\Contract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contact\Contract.Designer.cs">
+      <DependentUpon>Contract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="contact\MAJContractD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contact\MAJContractD.Designer.cs">
+      <DependentUpon>MAJContractD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="contact\MAJContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contact\MAJContract.Designer.cs">
+      <DependentUpon>MAJContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edition\Etat_Contra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edition\Etat_Contra.Designer.cs">
+      <DependentUpon>Etat_Contra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="epmeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>epmeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCDIVERS1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCDIVERS1.Designer.cs">
+      <DependentUpon>FCDIVERS1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCGarantie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCGarantie.Designer.cs">
+      <DependentUpon>FCGarantie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCAvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCAvance.Designer.cs">
+      <DependentUpon>FCAvance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCDeroulageSections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCDeroulageSections.Designer.cs">
+      <DependentUpon>FCDeroulageSections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCFondationSections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCFondationSections.Designer.cs">
+      <DependentUpon>FCFondationSections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCMontageSections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCMontageSections.Designer.cs">
+      <DependentUpon>FCMontageSections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCFondation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCFondation.Designer.cs">
+      <DependentUpon>FCFondation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FCMontage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FCMontage.Designer.cs">
+      <DependentUpon>FCMontage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FContart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FContart.Designer.cs">
+      <DependentUpon>FContart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FDivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FDivers.Designer.cs">
+      <DependentUpon>FDivers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FDeroulage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FDeroulage.Designer.cs">
+      <DependentUpon>FDeroulage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FMontage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FMontage.Designer.cs">
+      <DependentUpon>FMontage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\Factcli1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\Factcli1.Designer.cs">
+      <DependentUpon>Factcli1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\FFondation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\FFondation.Designer.cs">
+      <DependentUpon>FFondation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\DEROULAGEC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DEROULAGEC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\Fondation100.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Fondation100.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DDIERSC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DDIERSC.Designer.cs">
+      <DependentUpon>frm_DDIERSC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\DDIVERSC.cs">
+      <DependentUpon>DDIVERSC.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\TRAVAUXGR.cs">
+      <DependentUpon>TRAVAUXGR.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_TRAVAUXAV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_TRAVAUXAV.Designer.cs">
+      <DependentUpon>frm_TRAVAUXAV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_TRAVAUXGR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_TRAVAUXGR.Designer.cs">
+      <DependentUpon>frm_TRAVAUXGR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\TRAVAUXAV.cs">
+      <DependentUpon>TRAVAUXAV.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\MONTAGEC.cs">
+      <DependentUpon>MONTAGEC.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\FONDATIONC.cs">
+      <DependentUpon>FONDATIONC.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DEROULAGEC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DEROULAGEC.Designer.cs">
+      <DependentUpon>frm_DEROULAGEC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_fondationC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_fondationC.Designer.cs">
+      <DependentUpon>frm_fondationC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_MONTAGEC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_MONTAGEC.Designer.cs">
+      <DependentUpon>frm_MONTAGEC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DIVERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DIVERS.Designer.cs">
+      <DependentUpon>frm_DIVERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\TRAVAUX100.cs">
+      <DependentUpon>TRAVAUX100.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_TRAVAUX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_TRAVAUX.Designer.cs">
+      <DependentUpon>frm_TRAVAUX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DEROULAGE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_DEROULAGE.Designer.cs">
+      <DependentUpon>frm_DEROULAGE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\DEROULAGE100.cs">
+      <DependentUpon>DEROULAGE100.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_MONTAGE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_MONTAGE.Designer.cs">
+      <DependentUpon>frm_MONTAGE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facture\rpt\Montage100.cs">
+      <DependentUpon>Montage100.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_fondation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facture\rpt\frm_fondation.Designer.cs">
+      <DependentUpon>frm_fondation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fichier\Ilistecli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fichier\Ilistecli.Designer.cs">
+      <DependentUpon>Ilistecli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fichier\impcli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fichier\impcli.Designer.cs">
+      <DependentUpon>impcli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fichier\listecli.cs">
+      <DependentUpon>listecli.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Menugen1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menugen1.Designer.cs">
+      <DependentUpon>Menugen1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Famille\parametre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Famille\parametre.Designer.cs">
+      <DependentUpon>parametre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metier\metier.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Metier\MetierClient.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="parametre\entete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\entete.Designer.cs">
+      <DependentUpon>entete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\changer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\changer.Designer.cs">
+      <DependentUpon>changer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connect.Designer.cs">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fichier\Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fichier\Client.Designer.cs">
+      <DependentUpon>Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Famille\modalite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Famille\modalite.Designer.cs">
+      <DependentUpon>modalite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Famille\famille.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Famille\famille.Designer.cs">
+      <DependentUpon>famille.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recherche\rechclifour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recherche\rechclifour.Designer.cs">
+      <DependentUpon>rechclifour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="toolbox\Mycheck.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="toolbox\Mycombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="toolbox\Mydatetime.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="toolbox\Mygrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="toolbox\Myradio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="toolbox\Mytext.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="parametre\about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\about.Designer.cs">
+      <DependentUpon>about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\demo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\demo.Designer.cs">
+      <DependentUpon>demo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\exercice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\exercice.Designer.cs">
+      <DependentUpon>exercice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\Export_bd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\Export_bd.Designer.cs">
+      <DependentUpon>Export_bd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\Import_bd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\Import_bd.Designer.cs">
+      <DependentUpon>Import_bd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\param.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\param.Designer.cs">
+      <DependentUpon>param.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\pnumste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\pnumste.Designer.cs">
+      <DependentUpon>pnumste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\propos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\propos.Designer.cs">
+      <DependentUpon>propos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\ste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\ste.Designer.cs">
+      <DependentUpon>ste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShadowFomr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\util.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\util.Designer.cs">
+      <DependentUpon>util.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recherche\Rechfact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recherche\Rechfact.Designer.cs">
+      <DependentUpon>Rechfact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="parametre\purge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parametre\purge.Designer.cs">
+      <DependentUpon>purge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fichier\Rech.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fichier\Rech.Designer.cs">
+      <DependentUpon>Rech.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Famille\tva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Famille\tva.Designer.cs">
+      <DependentUpon>tva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="contact\Contract.resx">
+      <DependentUpon>Contract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contact\MAJContractD.resx">
+      <DependentUpon>MAJContractD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contact\MAJContract.resx">
+      <DependentUpon>MAJContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edition\Etat_Contra.resx">
+      <DependentUpon>Etat_Contra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCDIVERS1.resx">
+      <DependentUpon>FCDIVERS1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCGarantie.resx">
+      <DependentUpon>FCGarantie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCAvance.resx">
+      <DependentUpon>FCAvance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCDeroulageSections.resx">
+      <DependentUpon>FCDeroulageSections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCFondationSections.resx">
+      <DependentUpon>FCFondationSections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCMontageSections.resx">
+      <DependentUpon>FCMontageSections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCFondation.resx">
+      <DependentUpon>FCFondation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FCMontage.resx">
+      <DependentUpon>FCMontage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FContart.resx">
+      <DependentUpon>FContart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FDivers.resx">
+      <DependentUpon>FDivers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FDeroulage.resx">
+      <DependentUpon>FDeroulage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FMontage.resx">
+      <DependentUpon>FMontage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\Factcli1.resx">
+      <DependentUpon>Factcli1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\FFondation.resx">
+      <DependentUpon>FFondation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_DDIERSC.resx">
+      <DependentUpon>frm_DDIERSC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\DDIVERSC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DDIVERSC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\TRAVAUXGR.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TRAVAUXGR.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_TRAVAUXAV.resx">
+      <DependentUpon>frm_TRAVAUXAV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_TRAVAUXGR.resx">
+      <DependentUpon>frm_TRAVAUXGR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\TRAVAUXAV.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TRAVAUXAV.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\MONTAGEC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MONTAGEC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\FONDATIONC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FONDATIONC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_DEROULAGEC.resx">
+      <DependentUpon>frm_DEROULAGEC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_fondationC.resx">
+      <DependentUpon>frm_fondationC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_MONTAGEC.resx">
+      <DependentUpon>frm_MONTAGEC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_DIVERS.resx">
+      <DependentUpon>frm_DIVERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\DEROULAGEC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DEROULAGEC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\TRAVAUX100.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TRAVAUX100.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_TRAVAUX.resx">
+      <DependentUpon>frm_TRAVAUX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_DEROULAGE.resx">
+      <DependentUpon>frm_DEROULAGE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\DEROULAGE100.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DEROULAGE100.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_MONTAGE.resx">
+      <DependentUpon>frm_MONTAGE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\Montage100.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Montage100.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\Fondation100.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Fondation100.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facture\rpt\frm_fondation.resx">
+      <DependentUpon>frm_fondation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fichier\Ilistecli.resx">
+      <DependentUpon>Ilistecli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fichier\impcli.resx">
+      <DependentUpon>impcli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fichier\listecli.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>listecli.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menugen1.resx">
+      <DependentUpon>Menugen1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Famille\parametre.resx">
+      <DependentUpon>parametre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\entete.resx">
+      <DependentUpon>entete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\changer.resx">
+      <DependentUpon>changer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Connect.resx">
+      <DependentUpon>Connect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fichier\Client.resx">
+      <DependentUpon>Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Famille\modalite.resx">
+      <DependentUpon>modalite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Famille\famille.resx">
+      <DependentUpon>famille.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\about.resx">
+      <DependentUpon>about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\demo.resx">
+      <DependentUpon>demo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\exercice.resx">
+      <DependentUpon>exercice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\Export_bd.resx">
+      <DependentUpon>Export_bd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\Import_bd.resx">
+      <DependentUpon>Import_bd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\param.resx">
+      <DependentUpon>param.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\pnumste.resx">
+      <DependentUpon>pnumste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\propos.resx">
+      <DependentUpon>propos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\ste.resx">
+      <DependentUpon>ste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recherche\rechclifour.resx">
+      <DependentUpon>rechclifour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShadowFomr.resx">
+      <DependentUpon>ShadowFomr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\util.resx">
+      <DependentUpon>util.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recherche\Rechfact.resx">
+      <DependentUpon>Rechfact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parametre\purge.resx">
+      <DependentUpon>purge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fichier\Rech.resx">
+      <DependentUpon>Rech.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Famille\tva.resx">
+      <DependentUpon>tva.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="epmeDataSet.xsc">
+      <DependentUpon>epmeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="epmeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>epmeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="epmeDataSet.xss">
+      <DependentUpon>epmeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accounting.bmp" />
+    <None Include="Resources\peint4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\journalv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\journala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\releve.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\releve1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\releve1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Euro.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Address Book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm Clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anchor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Down 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Down 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Down 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Down 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Left 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Left 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Left 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Left 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Right 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Right 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Right 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Right 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Up 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Up 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Up 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow Up 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Auction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Balloon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Battery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bookmark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Briefcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Eject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button End.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button FFW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button First.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button FRW.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Shuffle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cabinet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camcorder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CD-DVD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart Area Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart Area Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart Bar Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart Bar Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart Bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart Pie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Collapse Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Collapse Arrow Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Collapse Arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Collapse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Color Palette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comment Feed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Compass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Construction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Control Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Credit Cards.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor Move Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor Move.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cursor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drive Download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drive Upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entry Feed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exclamation 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exclamation 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exclamation 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exclamation 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expand Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expand Arrow Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expand Arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Film.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Floppy Disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Format Bullets.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Format Code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Format Number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Format Quote.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Game Pad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gears.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hard Drive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Headphone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Heart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laptop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Link Broken.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magic Wand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Media Player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Media.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Megaphone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Member Card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Message Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microphone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mobile Phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Movie Clap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Music.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network Drive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oscilloscope.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Outbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paint Brush.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paint Bucket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paint Tube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper Clip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pipette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plug.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Postage Stamp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Present.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Presentation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Puzzle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RSS Feed 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RSS Feed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ruler Triangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ruler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Safe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shapes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping Bag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping Basket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping Cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Site Map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Software.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Speaker Mute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Speaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Television.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text Bold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text Italic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text Underline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Traffic Cone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Traffic Lights.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Umbrella.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USB Stick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Full Screen Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Full Screen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Restore Alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Restore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weather Cloud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weather Clouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weather Cloudy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weather Rain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weather Snow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weather Sunny.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Weather Thunder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Webcam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wireless Router.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom In.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom Out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\body.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_header.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\templatemo_banner_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\templatemo_middle.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

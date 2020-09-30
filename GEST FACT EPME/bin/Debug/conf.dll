@@ -1,0 +1,607 @@
+﻿CREATE DATABASE IF NOT EXISTS epme;
+
+
+
+DROP TABLE IF EXISTS `article`;
+CREATE TABLE IF NOT EXISTS `article` (
+  `ID` int(15) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `code` varchar(15) NOT NULL,
+  `codeb` varchar(15) default NULL,
+  `libelle` varchar(50) default NULL,
+  `codeo` varchar(15) default NULL,
+  `marque` varchar(20) default NULL,
+  `codef` varchar(3) default NULL,
+  `ls` varchar(10) default NULL,
+  `um` varchar(3) default NULL,
+  `tva` double(7,2) default NULL,
+  `fodec` double(7,2) default '0.00',
+  `taxe` double(7,2) default '0.00',
+  `paht` decimal(19,3) default NULL,
+  `marge` double(7,2) default NULL,
+  `puht` decimal(19,3) default NULL,
+  `pvpht` decimal(19,3) default NULL,
+  `pattc` decimal(19,3) default NULL,
+  `puttc` decimal(19,3) default NULL,
+  `pvpttc` decimal(19,3) default NULL,
+  `qteseuil` double(15,3) default NULL,
+  `qtedep` double(15,3) default NULL,
+  `qteent` double(15,3) default NULL,
+  `qteavrc` double(15,3) default NULL,
+  `qtesor` double(15,3) default NULL,
+  `qteavrf` double(15,3) default NULL,
+  `qtestk` double(15,3) default NULL,
+  `dext` double(7,2) default NULL,
+  `dint` double(7,2) default NULL,
+  `haut` double(7,2) default NULL,
+  `vpa` tinyint(1) NOT NULL,
+  `benef` tinyint(1) NOT NULL,
+  `vstk` tinyint(1) NOT NULL,
+  `majore` tinyint(1) NOT NULL,
+  `vente` tinyint(1) NOT NULL,
+  `achat` tinyint(1) NOT NULL,
+  `cara` varchar(512) default NULL,
+  `image` longblob,
+  `tvavente` tinyint(1) NOT NULL,
+  `tvaachat` tinyint(1) NOT NULL,
+  `emb` double(4,0) default NULL,
+  PRIMARY KEY  (`codes`,`codee`,`code`),
+  KEY `codef` (`codef`),
+  KEY `codeo` (`codeo`),
+  KEY `Index_4` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=23 DEFAULT CHARSET=utf8;
+
+DROP TABLE IF EXISTS `client`;
+CREATE TABLE IF NOT EXISTS `client` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `code` varchar(10) NOT NULL,
+  `codef` varchar(3) default NULL,
+  `coder` varchar(3) default NULL,
+  `codesec` varchar(3) default NULL,
+  `libelle` varchar(50) default NULL,
+  `adrl` varchar(50) default NULL,
+  `adrf` varchar(50) default NULL,
+  `adrm` varchar(50) default NULL,
+  `mf` varchar(20) default NULL,
+  `telfixe` varchar(20) default NULL,
+  `telfixe1` varchar(20) default NULL,
+  `telgsm` varchar(20) default NULL,
+  `telgsm1` varchar(20) default NULL,
+  `fax` varchar(20) default NULL,
+  `fax1` varchar(20) default NULL,
+  `regime` tinyint(1) NOT NULL,
+  `timbre` tinyint(1) NOT NULL,
+  `exenoration` tinyint(1) NOT NULL,
+  `solde1` decimal(19,3) default NULL,
+  `debit` decimal(19,3) default NULL,
+  `credit` decimal(19,3) default NULL,
+  `avoir` decimal(19,3) default NULL,
+  `retenue` decimal(19,3) default NULL,
+  `rem` decimal(19,3) default NULL,
+  `plafond` decimal(19,3) default NULL,
+  `solde` decimal(19,3) default NULL,
+  `remise` double(7,2) default NULL,
+  `cumulrem` tinyint(1) NOT NULL,
+  `obs` varchar(512) default NULL,
+  `image` longblob,
+  `acompte` decimal(19,3) default '0.000',
+  `regsoldn1` decimal(19,3) default '0.000',
+  PRIMARY KEY  (`codes`,`codee`,`code`),
+  KEY `Index_2` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS `compte`;
+CREATE TABLE IF NOT EXISTS `compte` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `code` varchar(3) NOT NULL,
+  `libelle` varchar(50) default NULL,
+  `adr` varchar(50) default NULL,
+  `telfixe` varchar(20) default NULL,
+  `telgsm` varchar(20) default NULL,
+  `adrf` varchar(50) default NULL,
+  `fax` varchar(12) default NULL,
+  `solde1` decimal(19,3) default NULL,
+  `debit` decimal(19,3) default NULL,
+  `credit` decimal(19,3) default NULL,
+  `solde` decimal(19,3) default NULL,
+  `obs` varchar(512) default NULL,
+  `image` longblob,
+  `var` varchar(1) default NULL,
+  PRIMARY KEY  (`codes`,`codee`,`code`),
+  KEY `Index_2` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+
+
+DROP TABLE IF EXISTS `eregc`;
+CREATE TABLE IF NOT EXISTS `eregc` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codeu` varchar(2) NOT NULL,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `codem` varchar(3) NOT NULL,
+  `NUM` varchar(10) NOT NULL,
+  `DATE` datetime default NULL,
+  `CODEC` varchar(10) default NULL,
+  `MONT` decimal(19,3) default NULL,
+  `mntret` decimal(19,3) default NULL,
+  `mntrem` decimal(19,3) default NULL,
+  `mntsld1` decimal(19,3) default '0.000',
+  `mp` varchar(1) default NULL,
+  `ncheq` varchar(10) default NULL,
+  `datee` datetime default NULL,
+  `libelle` varchar(100) default NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS `eregf`;
+CREATE TABLE IF NOT EXISTS `eregf` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codeu` varchar(2) NOT NULL,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `codem` varchar(3) NOT NULL,
+  `NUM` varchar(10) NOT NULL,
+  `DATE` datetime default NULL,
+  `CODEC` varchar(10) default NULL,
+  `MONT` decimal(19,3) default NULL,
+  `mntret` decimal(19,3) default NULL,
+  `mntrem` decimal(19,3) default NULL,
+  `mp` varchar(1) default NULL,
+  `ncheq` varchar(10) default NULL,
+  `datee` datetime default NULL,
+  `libelle` varchar(100) default NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+
+
+DROP TABLE IF EXISTS `exercice`;
+CREATE TABLE IF NOT EXISTS `exercice` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `libelle` varchar(50) default NULL,
+  PRIMARY KEY  (`codes`,`codee`),
+  KEY `codee` (`codee`),
+  KEY `codes` (`codes`),
+  KEY `Index_4` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+INSERT INTO `exercice` (`ID`,`codes`,`codee`,`libelle`) VALUES
+(2,'999','2012','Exercice 2012');
+
+
+
+DROP TABLE IF EXISTS `famillearticle`;
+CREATE TABLE IF NOT EXISTS `famillearticle` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `Code` varchar(3) NOT NULL,
+  `libelle` varchar(50) default NULL,
+  `type` varchar(1) default '',
+  PRIMARY KEY  (`codes`,`codee`,`Code`),
+  KEY `Index_2` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=utf8;
+
+INSERT INTO `famillearticle` (`ID`,`codes`,`codee`,`Code`,`libelle`,`type`) VALUES
+(23,'999','2012','001','Informatique',''),
+(24,'999','2012','002','Bureautique',''),
+(25,'999','2012','003','Article Jeux',''),
+(26,'999','2012','004','Article Cadeaux',''),
+(27,'999','2012','005','Batiment',''),
+(28,'999','2012','006','Alimentaire','');
+
+
+
+DROP TABLE IF EXISTS `familleclient`;
+CREATE TABLE IF NOT EXISTS `familleclient` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `Code` varchar(3) NOT NULL,
+  `libelle` varchar(50) default NULL,
+  `type` varchar(1) default '',
+  PRIMARY KEY  (`codes`,`codee`,`Code`),
+  KEY `Index_2` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+
+INSERT INTO `familleclient` (`ID`,`codes`,`codee`,`Code`,`libelle`,`type`) VALUES
+(1,'999','2012','000','Comptant','N'),
+(2,'999','2012','001','Revendeur',''),
+(3,'999','2012','002','Privé','');
+
+
+
+DROP TABLE IF EXISTS `famillefour`;
+CREATE TABLE IF NOT EXISTS `famillefour` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `Code` varchar(3) NOT NULL,
+  `libelle` varchar(50) default NULL,
+  `type` varchar(1) default '',
+  PRIMARY KEY  (`codes`,`codee`,`Code`),
+  KEY `Index_2` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+INSERT INTO `famillefour` (`ID`,`codes`,`codee`,`Code`,`libelle`,`type`) VALUES
+(1,'999','2012','001','Local',''),
+(2,'999','2012','002','Etranger','');
+
+
+
+
+DROP TABLE IF EXISTS `four`;
+CREATE TABLE IF NOT EXISTS `four` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `code` varchar(10) NOT NULL,
+  `codef` varchar(3) default NULL,
+  `libelle` varchar(50) default NULL,
+  `adrl` varchar(50) default NULL,
+  `adrf` varchar(50) default NULL,
+  `adrm` varchar(50) default NULL,
+  `mf` varchar(20) default NULL,
+  `telfixe` varchar(20) default NULL,
+  `telfixe1` varchar(20) default NULL,
+  `telgsm` varchar(20) default NULL,
+  `telgsm1` varchar(20) default NULL,
+  `fax` varchar(20) default NULL,
+  `fax1` varchar(20) default NULL,
+  `timbre` tinyint(1) NOT NULL,
+  `fodecfact` tinyint(1) NOT NULL,
+  `solde1` decimal(19,3) default NULL,
+  `debit` decimal(19,3) default NULL,
+  `credit` decimal(19,3) default NULL,
+  `avoir` decimal(19,3) default NULL,
+  `retenue` decimal(19,3) default NULL,
+  `rem` decimal(19,3) default NULL,
+  `solde` decimal(19,3) default NULL,
+  `obs` varchar(512) default NULL,
+  `image` longblob,
+  `acompte` decimal(19,3) default '0.000',
+  `regsoldn1` decimal(19,3) default '0.000',
+  PRIMARY KEY  (`codes`,`codee`,`code`),
+  KEY `codef` (`codef`),
+  KEY `Index_3` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=utf8;
+
+
+DROP TABLE IF EXISTS `lregc`;
+CREATE TABLE IF NOT EXISTS `lregc` (
+  `ID` int(15) NOT NULL auto_increment,
+  `codeu` varchar(2) default NULL,
+  `codes` varchar(3) default NULL,
+  `codee` varchar(4) default NULL,
+  `codem` varchar(3) default NULL,
+  `codec` varchar(10) default NULL,
+  `NUM` varchar(10) default NULL,
+  `nfact` varchar(10) default NULL,
+  `MONT` decimal(19,3) default NULL,
+  `date` datetime default NULL,
+  `mntret` decimal(19,3) default NULL,
+  `mntrem` decimal(19,3) default NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=30 DEFAULT CHARSET=utf8;
+
+INSERT INTO `lregc` (`ID`,`codeu`,`codes`,`codee`,`codem`,`codec`,`NUM`,`nfact`,`MONT`,`date`,`mntret`,`mntrem`) VALUES
+(24,'03','999','2012','001','4100005','RC000023','FC000012',3375.550,'2012-12-12 00:00:00',NULL,NULL),
+(25,'03','999','2012','001','4100005','RC000024','FC000004',265.000,'2012-12-15 00:00:00',NULL,NULL),
+(26,'03','999','2012','001','4100005','RC000024','FC000006',3091.200,'2012-12-15 00:00:00',NULL,NULL),
+(27,'03','999','2012','001','4100001','RC000025','FC000001',448.400,'2012-12-18 00:00:00',NULL,NULL),
+(28,'03','999','2012','001','4100001','RC000025','FC000005',211.043,'2012-12-18 00:00:00',NULL,NULL),
+(29,'03','999','2012','001','4100001','RC000025','FC000009',758.627,'2012-12-18 00:00:00',NULL,NULL);
+
+
+
+DROP TABLE IF EXISTS `lregf`;
+CREATE TABLE IF NOT EXISTS `lregf` (
+  `ID` int(15) NOT NULL auto_increment,
+  `codeu` varchar(2) default NULL,
+  `codes` varchar(3) default NULL,
+  `codee` varchar(4) default NULL,
+  `codem` varchar(3) default NULL,
+  `codec` varchar(10) default NULL,
+  `NUM` varchar(10) default NULL,
+  `nfact` varchar(10) default NULL,
+  `MONT` decimal(19,3) default NULL,
+  `date` datetime default NULL,
+  `mntret` decimal(19,3) default NULL,
+  `mntrem` decimal(19,3) default NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+
+
+
+DROP TABLE IF EXISTS `modalite`;
+CREATE TABLE IF NOT EXISTS `modalite` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `Code` varchar(5) NOT NULL,
+  `libelle` varchar(30) default NULL,
+  PRIMARY KEY  (`codes`,`codee`,`Code`),
+  KEY `Index_2` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
+
+INSERT INTO `modalite` (`ID`,`codes`,`codee`,`Code`,`libelle`) VALUES
+(9,'999','2012','CHQ30','Cheque 30 Jrs'),
+(10,'999','2012','CHQ60','Cheque 60 Jrs'),
+(11,'999','2012','CHQ90','Cheque 90 Jrs');
+
+
+
+DROP TABLE IF EXISTS `nbefacture`;
+CREATE TABLE IF NOT EXISTS `nbefacture` (
+  `ID` int(15) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `codem` varchar(3) NOT NULL,
+  `numf` varchar(10) NOT NULL,
+  `numl` varchar(10) NOT NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
+
+INSERT INTO `nbefacture` (`ID`,`codes`,`codee`,`codem`,`numf`,`numl`) VALUES
+(6,'999','2012','001','FF000004','LF000006'),
+(7,'999','2012','001','FF000004','LF000009'),
+(8,'999','2012','001','FF000004','LF000014'),
+(9,'999','2012','001','FF000004','LF000015'),
+(10,'999','2012','001','FF000004','LF000016'),
+(11,'999','2012','001','FF000004','LF000017');
+
+
+DROP TABLE IF EXISTS `nomtable`;
+CREATE TABLE IF NOT EXISTS `nomtable` (
+  `ID` int(10) NOT NULL auto_increment,
+  `libelle` varchar(30) default NULL,
+  `nom` varchar(20) default NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=45 DEFAULT CHARSET=utf8;
+
+INSERT INTO `nomtable` (`ID`,`libelle`,`nom`) VALUES
+(1,'Famille Client','FamilleClient'),
+(2,'Famille Fournisseur','FamilleFour'),
+(3,'Famille Article','FamilleArticle'),
+(4,'Article','Article'),
+(5,'Client','Client'),
+(6,'Fournisseur','Four'),
+(7,'Lieu du Stock','Lstk'),
+(8,'Representant','Rep'),
+(9,'Tva','tva'),
+(11,'Region','Region'),
+(13,'Entete Facture Client','EENTC'),
+(14,'Ligne Facture Client','LENTC'),
+(15,'Entete Facture Fournisseur','EENTF'),
+(16,'Ligne Facture Fournisseur','LENTF'),
+(17,'Entete Livraison Client','EENTL'),
+(19,'Ligne Livraison Client','LENTL'),
+(20,'Entete Entre Fournisseur','EENTE'),
+(21,'Ligne Entre Fournisseur','LENTE'),
+(22,'Entete Devis Client','EENTD'),
+(23,'Ligne Devis Client','LENTD'),
+(31,'Entete Avoir Client','EENTVC'),
+(34,'Entete Avoir Fournisseur','EENTVF'),
+(35,'Ligne  Avoir Client','LENTVC'),
+(36,'Ligne  Avoir Fournisseur','LENTVF'),
+(37,'Entete Commande Client','EENTCC'),
+(38,'Ligne Commande Client','LENTCC');
+INSERT INTO `nomtable` (`ID`,`libelle`,`nom`) VALUES
+(39,'Entete Commande Fournisseur','EENTCF'),
+(40,'Ligne Commande Fournisseur','LENTCF'),
+(41,'Entete Reglement Client','eregc'),
+(42,'Ligne Reglement Client','lregc'),
+(43,'Entete Paiement Fournisseur','eregf'),
+(44,'Ligne Paiement Fournisseur','lregf');
+
+
+
+DROP TABLE IF EXISTS `parametre`;
+CREATE TABLE IF NOT EXISTS `parametre` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `param` varchar(255) default NULL,
+  `value` varchar(255) default NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8;
+
+INSERT INTO `parametre` (`ID`,`codes`,`param`,`value`) VALUES
+(1,'999','TauxMajoration','25'),
+(2,'999','Timbre','0.400'),
+(3,'999','Cumulqteclient','Non'),
+(4,'999','Cumulqtefour','Non'),
+(5,'999','CumulRemiseClient','Non'),
+(6,'999','RCB','Oui'),
+(7,'999','RCL','Oui'),
+(8,'999','RCF','Oui'),
+(9,'999','RCA','Oui'),
+(10,'999','RCR','Oui'),
+(11,'999','RFL','Oui'),
+(12,'999','RFF','Oui'),
+(13,'999','RFA','Oui'),
+(14,'999','RFR','Oui'),
+(15,'999','BonTicket','Oui');
+
+
+
+DROP TABLE IF EXISTS `pnum`;
+CREATE TABLE IF NOT EXISTS `pnum` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `codem` varchar(3) NOT NULL,
+  `dbon` varchar(2) default NULL,
+  `bon` varchar(8) default NULL,
+  `dlivraison` varchar(2) default NULL,
+  `livraison` varchar(8) default NULL,
+  `dcomande` varchar(2) default NULL,
+  `comande` varchar(8) default NULL,
+  `ddevis` varchar(2) default NULL,
+  `devis` varchar(8) default NULL,
+  `dcomandef` varchar(2) default NULL,
+  `comandef` varchar(8) default NULL,
+  `dentre` varchar(2) default NULL,
+  `entre` varchar(8) default NULL,
+  `dregcli` varchar(2) default NULL,
+  `regcli` varchar(8) default NULL,
+  `dregfour` varchar(2) default NULL,
+  `regfour` varchar(8) default NULL,
+  `gamme` varchar(10) default NULL,
+  `secteur` varchar(10) default NULL,
+  `rayon` varchar(10) default NULL,
+  `etagere` varchar(10) default NULL,
+  `casier` varchar(10) default NULL,
+  `apaiement` varchar(10) default NULL,
+  `areglement` varchar(10) default NULL,
+  `aversement` varchar(10) default NULL,
+  PRIMARY KEY  USING BTREE (`codes`,`codee`,`codem`),
+  KEY `codee` (`codee`),
+  KEY `codes` (`codes`),
+  KEY `Index_4` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+
+INSERT INTO `pnum` (`ID`,`codes`,`codee`,`codem`,`dbon`,`bon`,`dlivraison`,`livraison`,`dcomande`,`comande`,`ddevis`,`devis`,`dcomandef`,`comandef`,`dentre`,`entre`,`dregcli`,`regcli`,`dregfour`,`regfour`,`gamme`,`secteur`,`rayon`,`etagere`,`casier`,`apaiement`,`areglement`,`aversement`) VALUES
+(1,'999','2012','001','BC','000016','LC','000021','CC','000001','DC','000002','CF','000000  ','LF','000017','RC','000025','PF','000004  ','0000000000','0000000002','0000000004','0000000004','0000000004','0000000002','0000000002','0000000003'),
+(2,'999','2012','002','BC','000000','LC','000000  ','CC','000000 ','DC','000000  ','CF','00000   ','LF','000000  ','RC','000000  ','PF','000000 ','0000000000','0000000000','0000000000','0000000000','0000000000','0000000000','0000000000','0000000000');
+
+
+
+DROP TABLE IF EXISTS `pnumste`;
+CREATE TABLE IF NOT EXISTS `pnumste` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `dfacture` varchar(2) default NULL,
+  `facture` varchar(8) default NULL,
+  `dfactures` varchar(2) default NULL,
+  `factures` varchar(8) default NULL,
+  `dfacturef` varchar(2) default NULL,
+  `facturef` varchar(8) default NULL,
+  `davoirc` varchar(2) default NULL,
+  `avoirc` varchar(8) default NULL,
+  `davoirf` varchar(2) default NULL,
+  `avoirf` varchar(8) default NULL,
+  `codeclient` varchar(10) default NULL,
+  `codecomptant` varchar(10) default NULL,
+  `codefour` varchar(10) default NULL,
+  `famillearticle` varchar(3) default NULL,
+  `region` varchar(3) default NULL,
+  `secteur` varchar(3) default NULL,
+  `familleclient` varchar(3) default NULL,
+  `famillefour` varchar(3) default NULL,
+  PRIMARY KEY  (`codes`,`codee`),
+  KEY `Index_2` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+INSERT INTO `pnumste` (`ID`,`codes`,`codee`,`dfacture`,`facture`,`dfactures`,`factures`,`dfacturef`,`facturef`,`davoirc`,`avoirc`,`davoirf`,`avoirf`,`codeclient`,`codecomptant`,`codefour`,`famillearticle`,`region`,`secteur`,`familleclient`,`famillefour`) VALUES
+(1,'999','2012','FC','000014','FS','000001','FF','000005','AC','000000','AF','000000','4100007','4100000','4000013','006','003','000','003','002');
+
+
+
+DROP TABLE IF EXISTS `propos`;
+CREATE TABLE IF NOT EXISTS `propos` (
+  `ID` int(11) NOT NULL auto_increment,
+  `image` longblob,
+  `images` int(3) NOT NULL,
+  `imagep` int(4) NOT NULL,
+  `imaged` datetime NOT NULL,
+  `imagef` int(5) NOT NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+
+
+DROP TABLE IF EXISTS `ste`;
+CREATE TABLE IF NOT EXISTS `ste` (
+  `ID` int(10) NOT NULL auto_increment,
+  `code` varchar(3) default NULL,
+  `libelle` varchar(50) default NULL,
+  `adr` varchar(50) default NULL,
+  `mf` varchar(20) default NULL,
+  `ncnss` varchar(10) default NULL,
+  `telfixe` varchar(12) default NULL,
+  `telgsm` varchar(12) default NULL,
+  `var` varchar(1) default NULL,
+  `fodec` tinyint(1) NOT NULL,
+  PRIMARY KEY  (`ID`),
+  KEY `code` (`code`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+INSERT INTO `ste` (`ID`,`code`,`libelle`,`adr`,`mf`,`ncnss`,`telfixe`,`telgsm`,`var`,`fodec`) VALUES
+(1,'999','Exemple','37 Avenue 20 Mars - Bardo 2000','123456/C/A/M/000','526854','71 00 00 00','98 57 62 25','N',0);
+
+
+
+
+
+DROP TABLE IF EXISTS `tva`;
+CREATE TABLE IF NOT EXISTS `tva` (
+  `ID` int(10) NOT NULL auto_increment,
+  `libelle` varchar(50) default NULL,
+  `taux` double(7,2) default NULL,
+  `actif` tinyint(1) NOT NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=utf8;
+
+INSERT INTO `tva` (`ID`,`libelle`,`taux`,`actif`) VALUES
+(13,'Tva 0%',0,1),
+(14,'Tva 6%',6,1),
+(15,'Tva 12%',12,1),
+(17,'Tva 18%',18,1);
+
+
+
+DROP TABLE IF EXISTS `utilisateur`;
+CREATE TABLE IF NOT EXISTS `utilisateur` (
+  `ID` int(10) NOT NULL auto_increment,
+  `code` varchar(2) NOT NULL,
+  `libelle` varchar(50) default NULL,
+  `mp` varchar(10) default NULL,
+  `type` varchar(1) default NULL,
+  PRIMARY KEY  (`code`),
+  KEY `code` (`code`),
+  KEY `Index_3` (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8;
+
+INSERT INTO `utilisateur` (`ID`,`code`,`libelle`,`mp`,`type`) VALUES
+(1,'00','Mohsen','21011966','S'),
+(2,'01','SA','valid','S'),
+(3,'02','A','valid','A'),
+(4,'03','1','1','S'),
+(5,'04','2','1','U'),
+(6,'05','3','1','U'),
+(7,'06','4','1','U'),
+(8,'07','5','1','U');
+
+
+
+DROP TABLE IF EXISTS `versement`;
+CREATE TABLE IF NOT EXISTS `versement` (
+  `ID` int(10) NOT NULL auto_increment,
+  `codeu` varchar(2) NOT NULL,
+  `codes` varchar(3) NOT NULL,
+  `codee` varchar(4) NOT NULL,
+  `codem` varchar(3) NOT NULL,
+  `codeb` varchar(3) NOT NULL,
+  `num` varchar(10) NOT NULL,
+  `DATE` datetime default NULL,
+  `MONT` decimal(19,3) default NULL,
+  `libelle` varchar(100) default NULL,
+  `mp` varchar(1) default NULL,
+  `ncheq` varchar(10) default NULL,
+  PRIMARY KEY  (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+

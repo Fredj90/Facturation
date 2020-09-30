@@ -1,0 +1,1621 @@
+D:\GestCom\commerciale\bin\Debug\commerciale.exe.config
+D:\GestCom\commerciale\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Client.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Properties.Resources.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.tva.resources
+D:\GestCom\commerciale\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GestCom\commerciale\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GestCom\commerciale\bin\Debug\commerciale.exe
+D:\GestCom\commerciale\bin\Debug\commerciale.pdb
+D:\GestCom\commerciale\bin\Debug\DevComponents.DotNetBar2.dll
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.exe
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.pdb
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Menugen.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Four.resources
+E:\GestCom\commerciale\bin\Debug\commerciale.exe.config
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.exe
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.pdb
+E:\GestCom\commerciale\bin\Debug\commerciale.exe
+E:\GestCom\commerciale\bin\Debug\commerciale.pdb
+E:\GestCom\commerciale\bin\Debug\DevComponents.DotNetBar2.dll
+E:\GestCom\commerciale\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Client.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Four.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Menugen.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Properties.Resources.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.tva.resources
+E:\GestCom\commerciale\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GestCom\commerciale\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Rech.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Article.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Rechart.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Rep.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Pnum.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.purge.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Article.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.purge.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Pnum.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Rep.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Rechart.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Rech.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Factcli1.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Factcli1.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.factcli.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.factcli.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Rechfact.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Rechfact.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Factfour1.resources
+C:\Users\Mansour\Desktop\commerciale\bin\Debug\commerciale.exe.config
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.exe
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.pdb
+C:\Users\Mansour\Desktop\commerciale\bin\Debug\commerciale.exe
+C:\Users\Mansour\Desktop\commerciale\bin\Debug\commerciale.pdb
+C:\Users\Mansour\Desktop\commerciale\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Famcli.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Famfour.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Famart.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Client.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Article.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.factcli.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Factcli1.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Factfour1.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Rechfact.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.purge.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Pnum.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Rep.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Lstk.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Rechart.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Rech.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Four.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Menugen.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Region.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.Properties.Resources.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\commerciale.tva.resources
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mansour\Desktop\commerciale\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.livcli1.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Factfour1.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.livcli1.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.entfour1.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.entfour1.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.devcli1.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.ste.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.util.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.Connect.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.Connect.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.devcli1.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.util.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.ste.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.avoirc.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.avoirf.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.comandec.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.comandef.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.stock.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.valstock.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.balancec.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.balancef.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.balancer.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.modalite.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.orgdonne.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.orgstk.resources
+D:\softschool\GestCom\commerciale\bin\Debug\commerciale.exe.config
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.exe
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.pdb
+D:\softschool\GestCom\commerciale\bin\Debug\commerciale.exe
+D:\softschool\GestCom\commerciale\bin\Debug\commerciale.pdb
+D:\softschool\GestCom\commerciale\bin\Debug\DevComponents.DotNetBar2.dll
+D:\softschool\GestCom\commerciale\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Connect.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Famcli.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Famfour.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Famart.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Client.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Article.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.factcli.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Factcli1.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Factfour1.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.entfour1.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.devcli1.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.avoirc.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.avoirf.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.comandec.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.comandef.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.balancec.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.balancef.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.balancer.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.modalite.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.orgstk.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.orgdonne.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.valstock.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.stock.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.util.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.ste.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.livcli1.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Rechfact.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.purge.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Pnum.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Rep.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Lstk.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Rechart.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Rech.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Four.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Menugen.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Region.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.Properties.Resources.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\commerciale.tva.resources
+D:\softschool\GestCom\commerciale\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\softschool\GestCom\commerciale\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GestCom\commerciale\bin\Debug\MySql.Data.dll
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.casier.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.etagere.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.magasin.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.famille.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.rayon.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.pnumste.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.stockmag.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.recharticle.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.depot.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.casier.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.avoirc.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.avoirf.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.comandec.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.comandef.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.balancec.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.balancef.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.balancer.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.modalite.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.etagere.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.famille.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.rayon.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.depot.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.magasin.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.pnumste.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.orgstk.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.orgdonne.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.recharticle.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.stockmag.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.valstock.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.stock.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.relevec.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.relevec.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.devic.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.relevef.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.ventefam.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.achatfam.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.stockfam.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.devic.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.achatfam.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.stockfam.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.ventefam.resources
+E:\GestCom\commerciale\obj\x86\Debug\commerciale.relevef.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.valstocks.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.venteart.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.achatart.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.propos.resources
+D:\GestCom\commerciale\obj\x86\Debug\commerciale.propos1.resources
+E:\GestCom\bin\Debug\commerciale.exe.config
+E:\GestCom\obj\x86\Debug\commerciale.exe
+E:\GestCom\obj\x86\Debug\commerciale.pdb
+E:\GestCom\bin\Debug\commerce.mdb
+E:\GestCom\bin\Debug\commerciale.exe
+E:\GestCom\bin\Debug\commerciale.pdb
+E:\GestCom\bin\Debug\DevComponents.DotNetBar2.dll
+E:\GestCom\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GestCom\obj\x86\Debug\commerciale.Connect.resources
+E:\GestCom\obj\x86\Debug\commerciale.devic.resources
+E:\GestCom\obj\x86\Debug\commerciale.achatfam.resources
+E:\GestCom\obj\x86\Debug\commerciale.achatart.resources
+E:\GestCom\obj\x86\Debug\commerciale.journalv.resources
+E:\GestCom\obj\x86\Debug\commerciale.paiementc.resources
+E:\GestCom\obj\x86\Debug\commerciale.reglementc.resources
+E:\GestCom\obj\x86\Debug\commerciale.reglement.resources
+E:\GestCom\obj\x86\Debug\commerciale.paiement.resources
+E:\GestCom\obj\x86\Debug\commerciale.jrncaisse.resources
+E:\GestCom\obj\x86\Debug\commerciale.stockart.resources
+E:\GestCom\obj\x86\Debug\commerciale.stockfam.resources
+E:\GestCom\obj\x86\Debug\commerciale.venteart.resources
+E:\GestCom\obj\x86\Debug\commerciale.ventefam.resources
+E:\GestCom\obj\x86\Debug\commerciale.relevec.resources
+E:\GestCom\obj\x86\Debug\commerciale.relevef.resources
+E:\GestCom\obj\x86\Debug\commerciale.factcli.resources
+E:\GestCom\obj\x86\Debug\commerciale.casier.resources
+E:\GestCom\obj\x86\Debug\commerciale.Client.resources
+E:\GestCom\obj\x86\Debug\commerciale.Article.resources
+E:\GestCom\obj\x86\Debug\commerciale.Factcli1.resources
+E:\GestCom\obj\x86\Debug\commerciale.Factfour1.resources
+E:\GestCom\obj\x86\Debug\commerciale.entfour1.resources
+E:\GestCom\obj\x86\Debug\commerciale.devcli1.resources
+E:\GestCom\obj\x86\Debug\commerciale.avoirc.resources
+E:\GestCom\obj\x86\Debug\commerciale.avoirf.resources
+E:\GestCom\obj\x86\Debug\commerciale.comandec.resources
+E:\GestCom\obj\x86\Debug\commerciale.comandef.resources
+E:\GestCom\obj\x86\Debug\commerciale.balancec.resources
+E:\GestCom\obj\x86\Debug\commerciale.balancef.resources
+E:\GestCom\obj\x86\Debug\commerciale.balancer.resources
+E:\GestCom\obj\x86\Debug\commerciale.modalite.resources
+E:\GestCom\obj\x86\Debug\commerciale.etagere.resources
+E:\GestCom\obj\x86\Debug\commerciale.famille.resources
+E:\GestCom\obj\x86\Debug\commerciale.compte.resources
+E:\GestCom\obj\x86\Debug\commerciale.rayon.resources
+E:\GestCom\obj\x86\Debug\commerciale.depense.resources
+E:\GestCom\obj\x86\Debug\commerciale.versement.resources
+E:\GestCom\obj\x86\Debug\commerciale.recette.resources
+E:\GestCom\obj\x86\Debug\commerciale.propos1.resources
+E:\GestCom\obj\x86\Debug\commerciale.depot.resources
+E:\GestCom\obj\x86\Debug\commerciale.orgfour.resources
+E:\GestCom\obj\x86\Debug\commerciale.orgclient.resources
+E:\GestCom\obj\x86\Debug\commerciale.magasin.resources
+E:\GestCom\obj\x86\Debug\commerciale.pnumste.resources
+E:\GestCom\obj\x86\Debug\commerciale.orgstk.resources
+E:\GestCom\obj\x86\Debug\commerciale.orgdonne.resources
+E:\GestCom\obj\x86\Debug\commerciale.propos.resources
+E:\GestCom\obj\x86\Debug\commerciale.ste.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+E:\GestCom\obj\x86\Debug\commerciale.valstocks.resources
+E:\GestCom\obj\x86\Debug\commerciale.recharticle.resources
+E:\GestCom\obj\x86\Debug\commerciale.stockmag.resources
+E:\GestCom\obj\x86\Debug\commerciale.valstock.resources
+E:\GestCom\obj\x86\Debug\commerciale.stock.resources
+E:\GestCom\obj\x86\Debug\commerciale.util.resources
+E:\GestCom\obj\x86\Debug\commerciale.livcli1.resources
+E:\GestCom\obj\x86\Debug\commerciale.Rechfact.resources
+E:\GestCom\obj\x86\Debug\commerciale.purge.resources
+E:\GestCom\obj\x86\Debug\commerciale.Pnum.resources
+E:\GestCom\obj\x86\Debug\commerciale.Rep.resources
+E:\GestCom\obj\x86\Debug\commerciale.Rechart.resources
+E:\GestCom\obj\x86\Debug\commerciale.Rech.resources
+E:\GestCom\obj\x86\Debug\commerciale.Four.resources
+E:\GestCom\obj\x86\Debug\commerciale.Menugen.resources
+E:\GestCom\obj\x86\Debug\commerciale.Properties.Resources.resources
+E:\GestCom\obj\x86\Debug\commerciale.tva.resources
+E:\GestCom\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GestCom\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+E:\GestCom\obj\x86\Debug\commerciale.journalfa.resources
+E:\GestCom\obj\x86\Debug\commerciale.journalaa.resources
+E:\GestCom\obj\x86\Debug\commerciale.journale.resources
+E:\GestCom\obj\x86\Debug\commerciale.journalach.resources
+E:\GestCom\obj\x86\Debug\commerciale.journald.resources
+E:\GestCom\obj\x86\Debug\commerciale.blnfacture.resources
+E:\GestCom\obj\x86\Debug\commerciale.journala.resources
+E:\GestCom\obj\x86\Debug\commerciale.journalf.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+E:\GestCom\obj\x86\Debug\commerciale.orgstkmag.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+E:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+D:\GestCom\bin\Debug\commerciale.exe.config
+D:\GestCom\bin\Debug\commerciale.exe
+D:\GestCom\bin\Debug\commerciale.pdb
+D:\GestCom\bin\Debug\DevComponents.DotNetBar2.dll
+D:\GestCom\bin\Debug\MySql.Data.dll
+D:\GestCom\bin\Debug\MySqlBackup.dll
+D:\GestCom\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GestCom\obj\x86\Debug\commerciale.Connect.resources
+D:\GestCom\obj\x86\Debug\commerciale.journalfa.resources
+D:\GestCom\obj\x86\Debug\commerciale.journalaa.resources
+D:\GestCom\obj\x86\Debug\commerciale.journale.resources
+D:\GestCom\obj\x86\Debug\commerciale.journalach.resources
+D:\GestCom\obj\x86\Debug\commerciale.journald.resources
+D:\GestCom\obj\x86\Debug\commerciale.devic.resources
+D:\GestCom\obj\x86\Debug\commerciale.achatfam.resources
+D:\GestCom\obj\x86\Debug\commerciale.achatart.resources
+D:\GestCom\obj\x86\Debug\commerciale.blnfacture.resources
+D:\GestCom\obj\x86\Debug\commerciale.journala.resources
+D:\GestCom\obj\x86\Debug\commerciale.journalf.resources
+D:\GestCom\obj\x86\Debug\commerciale.journalv.resources
+D:\GestCom\obj\x86\Debug\commerciale.impbalfour.resources
+D:\GestCom\obj\x86\Debug\commerciale.impbalclient.resources
+D:\GestCom\obj\x86\Debug\commerciale.secteura.resources
+D:\GestCom\obj\x86\Debug\commerciale.secteur.resources
+D:\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteartcli.resources
+D:\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteart.resources
+D:\GestCom\obj\x86\Debug\commerciale.impart.resources
+D:\GestCom\obj\x86\Debug\commerciale.fichier.Ilistefour.resources
+D:\GestCom\obj\x86\Debug\commerciale.impfour.resources
+D:\GestCom\obj\x86\Debug\commerciale.impcli.resources
+D:\GestCom\obj\x86\Debug\commerciale.fichier.Ilistecli.resources
+D:\GestCom\obj\x86\Debug\commerciale.tarif.resources
+D:\GestCom\obj\x86\Debug\commerciale.paiementc.resources
+D:\GestCom\obj\x86\Debug\commerciale.reglementc.resources
+D:\GestCom\obj\x86\Debug\commerciale.reglement.resources
+D:\GestCom\obj\x86\Debug\commerciale.paiement.resources
+D:\GestCom\obj\x86\Debug\commerciale.jrncaisse.resources
+D:\GestCom\obj\x86\Debug\commerciale.stockart.resources
+D:\GestCom\obj\x86\Debug\commerciale.stockfam.resources
+D:\GestCom\obj\x86\Debug\commerciale.venteart.resources
+D:\GestCom\obj\x86\Debug\commerciale.ventefam.resources
+D:\GestCom\obj\x86\Debug\commerciale.relevec.resources
+D:\GestCom\obj\x86\Debug\commerciale.relevef.resources
+D:\GestCom\obj\x86\Debug\commerciale.casier.resources
+D:\GestCom\obj\x86\Debug\commerciale.Client.resources
+D:\GestCom\obj\x86\Debug\commerciale.Article.resources
+D:\GestCom\obj\x86\Debug\commerciale.Factcli1.resources
+D:\GestCom\obj\x86\Debug\commerciale.Factfour1.resources
+D:\GestCom\obj\x86\Debug\commerciale.entfour1.resources
+D:\GestCom\obj\x86\Debug\commerciale.devcli1.resources
+D:\GestCom\obj\x86\Debug\commerciale.avoirc.resources
+D:\GestCom\obj\x86\Debug\commerciale.avoirf.resources
+D:\GestCom\obj\x86\Debug\commerciale.comandec.resources
+D:\GestCom\obj\x86\Debug\commerciale.comandef.resources
+D:\GestCom\obj\x86\Debug\commerciale.balancec.resources
+D:\GestCom\obj\x86\Debug\commerciale.balancef.resources
+D:\GestCom\obj\x86\Debug\commerciale.balancer.resources
+D:\GestCom\obj\x86\Debug\commerciale.modalite.resources
+D:\GestCom\obj\x86\Debug\commerciale.etagere.resources
+D:\GestCom\obj\x86\Debug\commerciale.famille.resources
+D:\GestCom\obj\x86\Debug\commerciale.compte.resources
+D:\GestCom\obj\x86\Debug\commerciale.rayon.resources
+D:\GestCom\obj\x86\Debug\commerciale.depense.resources
+D:\GestCom\obj\x86\Debug\commerciale.versement.resources
+D:\GestCom\obj\x86\Debug\commerciale.recette.resources
+D:\GestCom\obj\x86\Debug\commerciale.propos1.resources
+D:\GestCom\obj\x86\Debug\commerciale.demp.resources
+D:\GestCom\obj\x86\Debug\commerciale.depot.resources
+D:\GestCom\obj\x86\Debug\commerciale.exercice.resources
+D:\GestCom\obj\x86\Debug\commerciale.Export_bd.resources
+D:\GestCom\obj\x86\Debug\commerciale.Import_bd.resources
+D:\GestCom\obj\x86\Debug\commerciale.orgfour.resources
+D:\GestCom\obj\x86\Debug\commerciale.orgclient.resources
+D:\GestCom\obj\x86\Debug\commerciale.magasin.resources
+D:\GestCom\obj\x86\Debug\commerciale.orgstk.resources
+D:\GestCom\obj\x86\Debug\commerciale.pnumste.resources
+D:\GestCom\obj\x86\Debug\commerciale.orgstkmag.resources
+D:\GestCom\obj\x86\Debug\commerciale.orgdonne.resources
+D:\GestCom\obj\x86\Debug\commerciale.propos.resources
+D:\GestCom\obj\x86\Debug\commerciale.ste.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvdfodec.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvcfodec.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvfodec.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfamd.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefamd.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfam.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefam.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartpsansg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartp.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgsansg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgcsansg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgc.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgsansg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgcsansg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgc.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpg.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+D:\GestCom\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+D:\GestCom\obj\x86\Debug\commerciale.valstocks.resources
+D:\GestCom\obj\x86\Debug\commerciale.recharticle.resources
+D:\GestCom\obj\x86\Debug\commerciale.stockmag.resources
+D:\GestCom\obj\x86\Debug\commerciale.valstock.resources
+D:\GestCom\obj\x86\Debug\commerciale.stock.resources
+D:\GestCom\obj\x86\Debug\commerciale.util.resources
+D:\GestCom\obj\x86\Debug\commerciale.livcli1.resources
+D:\GestCom\obj\x86\Debug\commerciale.Rechfact.resources
+D:\GestCom\obj\x86\Debug\commerciale.purge.resources
+D:\GestCom\obj\x86\Debug\commerciale.Pnum.resources
+D:\GestCom\obj\x86\Debug\commerciale.Rep.resources
+D:\GestCom\obj\x86\Debug\commerciale.Rechart.resources
+D:\GestCom\obj\x86\Debug\commerciale.Rech.resources
+D:\GestCom\obj\x86\Debug\commerciale.Four.resources
+D:\GestCom\obj\x86\Debug\commerciale.Menugen.resources
+D:\GestCom\obj\x86\Debug\commerciale.Properties.Resources.resources
+D:\GestCom\obj\x86\Debug\commerciale.tva.resources
+D:\GestCom\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GestCom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GestCom\obj\x86\Debug\commerciale.exe
+D:\GestCom\obj\x86\Debug\commerciale.pdb
+D:\GestCom\obj\x86\Debug\commerciale.rechcli.resources
+D:\GestCom\obj\x86\Debug\commerciale.ShadowForm.resources
+D:\GestCom\obj\x86\Debug\commerciale.recha.resources
+D:\GestCom\obj\x86\Debug\commerciale.rechartmaj.resources
+D:\GestCom\obj\x86\Debug\commerciale.parametres.resources
+E:\ApplicationWindows\GestCom\bin\Debug\commerciale.exe.config
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.exe
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.pdb
+E:\ApplicationWindows\GestCom\bin\Debug\commerciale.exe
+E:\ApplicationWindows\GestCom\bin\Debug\commerciale.pdb
+E:\ApplicationWindows\GestCom\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ApplicationWindows\GestCom\bin\Debug\MySqlBackup.dll
+E:\ApplicationWindows\GestCom\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Connect.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journalfa.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journalaa.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journale.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journalach.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journald.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.devic.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.achatfam.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.achatart.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.blnfacture.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journala.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journalf.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.journalv.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.impbalfour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.impbalclient.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.secteura.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.secteur.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteartcli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteart.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.impart.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.fichier.Ilistefour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.impfour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.impcli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.fichier.Ilistecli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.tarif.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.paiementc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.reglementc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.reglement.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.paiement.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.jrncaisse.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.stockart.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.stockfam.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.venteart.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.ventefam.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.relevec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.relevef.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.casier.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Client.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Article.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Factcli1.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Factfour1.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.entfour1.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.devcli1.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.avoirc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.avoirf.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.comandec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.comandef.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.balancec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.balancef.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.balancer.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.modalite.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.etagere.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.famille.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.compte.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rayon.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.depense.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.versement.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.recette.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rechartmaj.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.recha.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rechcli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.propos1.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.demp.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.depot.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.exercice.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Export_bd.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Import_bd.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.orgfour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.orgclient.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.magasin.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.orgstk.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.parametres.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.pnumste.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.orgstkmag.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.orgdonne.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.propos.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.ste.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvdfodec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvcfodec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvfodec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfamd.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefamd.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfam.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefam.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartpsansg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartp.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgsansg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgcsansg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgsansg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgcsansg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpg.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.ShadowForm.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.valstocks.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.recharticle.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.stockmag.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.valstock.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.stock.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.util.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.livcli1.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Rechfact.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.purge.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Pnum.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Rep.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Rechart.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Rech.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Four.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Menugen.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.Properties.Resources.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\commerciale.tva.resources
+E:\ApplicationWindows\GestCom\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ApplicationWindows\GestCom\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GestCom\obj\x86\Debug\commerciale.factfourbl.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.comandecli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.comandefour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Connect.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journalfa.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journalaa.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journale.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journalach.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journald.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.devic.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.achatfam.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.achatart.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.blnfacture.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journala.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journalf.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.journalv.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.impbalfour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.impbalclient.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.ModelVente.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.facturec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.factclibl.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.entre.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.factfourbl.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.facturef.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.secteura.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.secteur.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteartcli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteart.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.impart.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.fichier.Ilistefour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.impfour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.impcli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.fichier.Ilistecli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.tarif.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.paiementc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.reglementc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.reglement.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.paiement.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.jrncaisse.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.stockart.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.stockfam.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.venteart.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.ventefam.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.relevec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.relevef.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.factcli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.casier.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Client.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Article.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Factcli1.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Factfour1.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.entfour1.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.devcli1.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.avoirc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.avoirf.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.comandec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.comandef.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.balancec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.balancef.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.balancer.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.modalite.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.etagere.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.famille.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.compte.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rayon.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.depense.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.versement.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.recette.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.livraison.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rechartmaj.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.recha.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rechcli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.propos1.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.demp.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.depot.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.exercice.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Export_bd.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Import_bd.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.orgfour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.orgclient.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.magasin.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.orgstk.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.parametres.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.pnumste.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.orgstkmag.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.orgdonne.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.propos.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.ste.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvdfodec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvcfodec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvfodec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfamd.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefamd.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfam.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefam.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartpsansg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartp.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgsansg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgcsansg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgsansg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgcsansg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpg.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.ShadowForm.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.valstocks.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.recharticle.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.stockmag.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.valstock.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.stock.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.util.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.livcli1.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Rechfact.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.purge.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Pnum.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Rep.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Rechart.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Rech.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Four.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Menugen.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.Properties.Resources.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.tva.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mansour\Desktop\GestCom\bin\Debug\commerce.mdb
+C:\Users\Mansour\Desktop\GestCom\bin\Debug\commerciale.exe.config
+C:\Users\Mansour\Desktop\GestCom\bin\Debug\commerciale.exe
+C:\Users\Mansour\Desktop\GestCom\bin\Debug\commerciale.pdb
+C:\Users\Mansour\Desktop\GestCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mansour\Desktop\GestCom\bin\Debug\MySql.Data.dll
+C:\Users\Mansour\Desktop\GestCom\bin\Debug\MySqlBackup.dll
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.exe
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.pdb
+C:\Users\MEDISS\Desktop\mansour\GestCom\bin\Debug\commerciale.exe.config
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.exe
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.pdb
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.comandecli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.comandefour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Connect.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journalfa.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journalaa.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journale.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journalach.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journald.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.devic.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.achatfam.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.achatart.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.blnfacture.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journala.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journalf.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.journalv.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.impbalfour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.impbalclient.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.ModelVente.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.facturec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.factclibl.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.entre.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.factfourbl.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.facturef.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.secteura.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.secteur.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteartcli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.fichier.Ilisteart.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.impart.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.fichier.Ilistefour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.impfour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.impcli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.fichier.Ilistecli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.tarif.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.paiementc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.reglementc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.reglement.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.paiement.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.jrncaisse.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.stockart.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.stockfam.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.venteart.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.ventefam.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.relevec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.relevef.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.factcli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.casier.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Client.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Article.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Factcli1.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Factfour1.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.entfour1.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.devcli1.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.avoirc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.avoirf.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.comandec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.comandef.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.balancec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.balancef.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.balancer.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.modalite.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.etagere.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.famille.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.compte.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rayon.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.depense.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.versement.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.recette.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.livraison.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rechartmaj.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.recha.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rechcli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.propos1.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.demp.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.depot.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.exercice.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Export_bd.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Import_bd.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.orgfour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.orgclient.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.magasin.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.orgstk.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.parametres.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.pnumste.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.orgstkmag.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.orgdonne.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.propos.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.ste.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvdfodec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvcfodec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvfodec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfamd.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefamd.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatfam.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iventefam.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartpsansg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Istockartp.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgsansg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgcsansg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpgc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iachatartpg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgsansg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgcsansg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpgc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Iventeartpg.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.ShadowForm.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.valstocks.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.recharticle.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.stockmag.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.valstock.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.stock.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.util.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.livcli1.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Rechfact.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.purge.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Pnum.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Rep.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Rechart.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Rech.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Four.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Menugen.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.Properties.Resources.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.tva.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MEDISS\Desktop\mansour\GestCom\bin\Debug\commerce.mdb
+C:\Users\MEDISS\Desktop\mansour\GestCom\bin\Debug\commerciale.exe
+C:\Users\MEDISS\Desktop\mansour\GestCom\bin\Debug\commerciale.pdb
+C:\Users\MEDISS\Desktop\mansour\GestCom\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\MEDISS\Desktop\mansour\GestCom\bin\Debug\MySql.Data.dll
+C:\Users\MEDISS\Desktop\mansour\GestCom\bin\Debug\MySqlBackup.dll
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.livcli.LivraisonView.resources
+C:\Users\MEDISS\Desktop\mansour\GestCom\obj\x86\Debug\commerciale.DeviView.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.DeviView.resources
+C:\Users\Mansour\Desktop\GestCom\obj\x86\Debug\commerciale.livcli.LivraisonView.resources
+C:\Users\Mansour\Desktop\GestComMODIF\bin\Debug\commerciale.exe.config
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.exe
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.pdb
+C:\Users\Mansour\Desktop\GestComMODIF\bin\Debug\commerciale.exe
+C:\Users\Mansour\Desktop\GestComMODIF\bin\Debug\commerciale.pdb
+C:\Users\Mansour\Desktop\GestComMODIF\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mansour\Desktop\GestComMODIF\bin\Debug\MySql.Data.dll
+C:\Users\Mansour\Desktop\GestComMODIF\bin\Debug\MySqlBackup.dll
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Connect.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journalfa.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journalaa.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journale.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journalach.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journald.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.devic.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.achatfam.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.achatart.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.blnfacture.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journala.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journalf.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.journalv.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.impbalfour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.impbalclient.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.ModelVente.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.factclibl.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.entre.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.factfourbl.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.facturef.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.secteura.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.secteur.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.fichier.Ilisteartcli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.fichier.Ilisteart.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.impart.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.fichier.Ilistefour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.impfour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.impcli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.fichier.Ilistecli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.tarif.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.paiementc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.reglementc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.reglement.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.paiement.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.jrncaisse.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.stockart.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.stockfam.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.venteart.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.ventefam.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.relevec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.relevef.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.casier.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Client.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Article.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Factcli1.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Factfour1.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.entfour1.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.devcli1.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.avoirc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.avoirf.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.comandec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.comandef.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.balancec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.balancef.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.balancer.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.modalite.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.etagere.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.famille.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.compte.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rayon.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.depense.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.versement.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.recette.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rechartmaj.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.recha.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rechcli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.propos1.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.demp.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.depot.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.exercice.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Export_bd.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Import_bd.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.orgfour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.orgclient.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.magasin.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.orgstk.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.parametres.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.pnumste.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.orgstkmag.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.orgdonne.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.propos.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.ste.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ijournalvdfodec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ijournalvcfodec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ijournalvfodec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iachatfamd.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iventefamd.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iachatfam.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iventefam.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Istockartpsansg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Istockartp.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iachatartpgsansg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iachatartpgcsansg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iachatartpgc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iachatartpg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iventeartpgsansg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iventeartpgcsansg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iventeartpgc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Iventeartpg.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.ShadowForm.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.valstocks.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.recharticle.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.stockmag.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.valstock.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.stock.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.util.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.livcli1.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Rechfact.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.purge.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Pnum.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Rep.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Rechart.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Rech.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Four.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Menugen.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.Properties.Resources.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.tva.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GestCom\obj\x86\Debug\commerciale.ModelVente.resources
+D:\GestCom\obj\x86\Debug\commerciale.bon1.resources
+D:\GestCom\obj\x86\Debug\commerciale.bcnfacture.resources
+D:\GestCom\obj\x86\Debug\commerciale.ModelAchat.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.ModelAchat.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.bon1.resources
+C:\Users\Mansour\Desktop\GestComMODIF\obj\x86\Debug\commerciale.bcnfacture.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.ModelAchat.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.bon1.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.bcnfacture.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.ModelVente.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.factfourbl.resources
+D:\Gestcom\obj\x86\Debug\commerciale.facturecb.resources
+D:\Gestcom\obj\x86\Debug\commerciale.factclibc.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.facturecb.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.factclibc.resources
+D:\Gestcom\obj\x86\Debug\commerciale.sinvent.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.sinvent.resources
+D:\Gestcom\obj\x86\Debug\commerciale.impression.resources
+D:\Gestcom\obj\x86\Debug\commerciale.entete.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditliv.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditlivfodec.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfact.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Iticket.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfodec.resources
+D:\Gestcom\obj\x86\Debug\commerciale.impressiona.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditent.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactf.resources
+D:\Gestcom\obj\x86\Debug\commerciale.prepare.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.prepare.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.impressiona.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.impression.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.entete.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactf.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditent.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfodec.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Iticket.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfact.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditlivfodec.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditliv.resources
+D:\Gestcom\obj\x86\Debug\commerciale.cinvent.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.cinvent.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfbl.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactbl.resources
+D:\Gestcom\obj\x86\Debug\commerciale.param.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstockmagd.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.param.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactbl.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfbl.resources
+E:\ApplicationWindows\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstockmagd.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptclient.Ifactcliglob.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditdevis.resources
+D:\Gestcom\obj\x86\Debug\commerciale.changer.resources
+D:\Gestcom\obj\x86\Debug\commerciale.regfact.resources
+D:\Gestcom\obj\x86\Debug\commerciale.impetatfact.resources
+D:\Gestcom\obj\x86\Debug\commerciale.impetatliv.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptclient.Ilivcliglob.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ieditrg.resources
+D:\Gestcom\obj\x86\Debug\commerciale.Inventaire.Ietatinvent.resources
+D:\Gestcom\obj\x86\Debug\commerciale.Inventaire.Ietatinventdif.resources
+D:\Gestcom\obj\x86\Debug\commerciale.journalcomptable.resources
+D:\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalcomptable.resources
+D:\Gestcom\obj\x86\Debug\commerciale.journalcomptableach.resources
+E:\Mansour\Gestcom\bin\Debug\commerciale.exe.config
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.exe
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.pdb
+E:\Mansour\Gestcom\bin\Debug\commerciale.exe
+E:\Mansour\Gestcom\bin\Debug\commerciale.pdb
+E:\Mansour\Gestcom\bin\Debug\MySql.Data.dll
+E:\Mansour\Gestcom\bin\Debug\MySqlBackup.dll
+E:\Mansour\Gestcom\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.ModelAchat.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journalcomptableach.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journalcomptable.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.regfact.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.cinvent.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.param.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Inventaire.Ietatinventdif.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Inventaire.Ietatinvent.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.prepare.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impressiona.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impression.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.sinvent.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.entete.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.changer.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalcomptable.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ilivcliglob.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ifactcliglob.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditdevis.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactbl.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfbl.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactf.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditent.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfodec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Iticket.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfact.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditlivfodec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditliv.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ieditrg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstockmagd.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.bon1.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Connect.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.bcnfacture.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journalfa.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journalaa.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journale.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journalach.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journald.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.devic.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.achatfam.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.achatart.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.blnfacture.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journala.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journalf.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.journalv.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impbalfour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impbalclient.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.facturecb.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impetatliv.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impetatfact.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.ModelVente.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.factclibc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.factfourbl.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.secteura.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.secteur.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.fichier.Ilisteartcli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.fichier.Ilisteart.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impart.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.fichier.Ilistefour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impfour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.impcli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.fichier.Ilistecli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.tarif.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.paiementc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.reglementc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.reglement.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.paiement.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.jrncaisse.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.stockart.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.stockfam.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.venteart.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.ventefam.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.relevec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.relevef.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.casier.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Client.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Article.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Factcli1.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Factfour1.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.entfour1.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.devcli1.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.avoirc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.avoirf.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.comandec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.comandef.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.balancec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.balancef.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.balancer.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.modalite.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.etagere.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.famille.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.compte.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rayon.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.depense.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.versement.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.recette.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rechartmaj.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.recha.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rechcli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.propos1.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.demp.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.depot.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.exercice.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Export_bd.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Import_bd.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.orgfour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.orgclient.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.magasin.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.orgstk.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.parametres.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.pnumste.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.orgstkmag.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.orgdonne.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.propos.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.ste.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvdfodec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvcfodec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvfodec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatfamd.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventefamd.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatfam.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventefam.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockartpsansg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockartp.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpgsansg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpgcsansg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpgc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpgsansg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpgcsansg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpgc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpg.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.ShadowForm.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.valstocks.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.recharticle.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.stockmag.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.valstock.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.stock.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.util.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.livcli1.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Rechfact.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.purge.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Pnum.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Rep.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Rechart.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Rech.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Four.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Menugen.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Properties.Resources.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.tva.resources
+E:\Mansour\Gestcom\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mansour\Gestcom\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Avoirvc.resources
+E:\Mansour\Gestcom\obj\x86\Debug\commerciale.Avoirvf.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\bin\Debug\commerciale.exe.config
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\bin\Debug\commerciale.exe
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\bin\Debug\commerciale.pdb
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\bin\Debug\MySql.Data.dll
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\bin\Debug\MySqlBackup.dll
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Avoirvf.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.ModelAchat.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.fichier.harticle.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Inventaire.Ietatinventvierge.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Menugen1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journalcomptableach.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journalcomptable.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.regfact.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.cinvent.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.param.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Inventaire.Ietatinventdif.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Inventaire.Ietatinvent.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.prepare.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impressiona.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impression.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.sinvent.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.entete.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.changer.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalcomptable.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ilivcliglob.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ifactcliglob.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditdevis.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactbl.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfbl.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactf.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditent.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfactfodec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Iticket.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditfact.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditlivfodec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.Ieditliv.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.preimpr.Ieditdevis.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.preimpr.Ieditfact.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.preimpr.Ieditfactbl.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptedit.preimpr.Ieditliv.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ieditrg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstockmagd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.bon1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Connect.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.bcnfacture.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journalfa.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journalaa.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journale.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journalach.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journald.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.devic.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.achatfam.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.achatart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.blnfacture.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journala.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journalf.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.journalv.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impbalfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impbalclient.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Avoirvc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.facturecbd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.facturecld.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Factclis1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.facturecb.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impetatliv.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impetatfact.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.ModelVente.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.factclibc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.factfourbl.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.secteura.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.secteur.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.fichier.Ilisteartcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.fichier.Ilisteart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.fichier.Ilistefour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.impcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.fichier.Ilistecli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.tarif.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.paiementc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.reglementc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.reglement.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.paiement.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.jrncaisse.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.stockart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.stockfam.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.venteart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.ventefam.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.relevec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.relevef.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.casier.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Client.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Article.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Factcli1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Factfour1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.entfour1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.devcli1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.avoirc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.avoirf.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.comandec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.comandef.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.balancec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.balancef.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.balancer.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.modalite.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.etagere.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.famille.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.compte.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rayon.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.depense.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.versement.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.recette.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rechartmaj.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.recha.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rechcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.propos1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.demp.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.depot.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.exercice.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Export_bd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Import_bd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.orgfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.orgclient.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.magasin.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.orgstk.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.parametres.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.pnumste.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.orgstkmag.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.orgdonne.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.propos.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.ste.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvdfodec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvcfodec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvfodec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalvd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ijournalv.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ilivcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Iavrcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ifactcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Irelevec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ireglecli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptclient.Ibalancec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatrec.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatrg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatrc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatendos.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietateche.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatpf.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatvg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatdg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ietatpg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfinance.Ijcaisse.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Ijournalad.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Ijournalaf.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Ijournalach.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Iavrfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Ilivfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Ifactfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Ireglefour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Irelevef.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptfour.Ibalancef.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptrep.Ilivrep.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptrep.Ifactrep.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptrep.Ibalancer.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatfamd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventefamd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatfam.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventefam.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockartpsansg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockartp.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpgsansg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpgcsansg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpgc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iachatartpg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpgsansg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpgcsansg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpgc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Iventeartpg.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockglobd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockglob.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstocksoc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Istocksoc.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Ivalstockmag.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.rptstock.Istockmag.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.ShadowForm.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.valstocks.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.recharticle.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.stockmag.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.valstock.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.stock.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.util.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.livcli1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Rechfact.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.purge.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Pnum.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Rep.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Rechart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Rech.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Four.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Menugen.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.Properties.Resources.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.tva.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.exe
+C:\mansour\gest_com 30-05-13\Gestcom2\Gestcom\obj\x86\Debug\commerciale.pdb
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\bin\Debug\commerciale.exe.config
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\commerciale.exe
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\commerciale.pdb

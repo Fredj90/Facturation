@@ -1,0 +1,217 @@
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\bin\Debug\EPME.exe.config
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Contract.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Factcli1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.contact.MAJContract.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCFondation.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCMontage.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCDeroulage.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FContart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FDivers.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FDeroulage.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FMontage.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.Factcli1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FFondation.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_fondation.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.fichier.harticle.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Menugen1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.param.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.entete.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.changer.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Connect.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.secteura.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.secteur.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilisteartcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilisteart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.impart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilistefour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.impfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.impcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilistecli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.tarif.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Client.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Article.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.modalite.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.famille.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.compte.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.rayon.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.rechartmaj.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.recha.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.rechcli.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.propos1.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.demp.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.exercice.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Export_bd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Import_bd.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.orgfour.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.orgclient.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.orgstk.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.parametres.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.pnumste.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.orgstkmag.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.orgdonne.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.propos.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.ste.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.ShadowForm.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.util.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Rechfact.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.purge.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Pnum.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Rep.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Rechart.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Rech.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Four.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Properties.Resources.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.tva.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\bin\Debug\EPME.exe
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\bin\Debug\EPME.pdb
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\bin\Debug\MySql.Data.dll
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\bin\Debug\MySqlBackup.dll
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.exe
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.pdb
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_MONTAGE.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_DEROULAGE.resources
+C:\mansour\gest_com 30-05-13\Gestcom2\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_TRAVAUX.resources
+E:\ApplicationWindows\GEST FACT EPME\bin\Debug\EPME.exe.config
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.exe
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.pdb
+E:\ApplicationWindows\GEST FACT EPME\bin\Debug\EPME.exe
+E:\ApplicationWindows\GEST FACT EPME\bin\Debug\EPME.pdb
+E:\ApplicationWindows\GEST FACT EPME\bin\Debug\MySqlBackup.dll
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Contract.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Factcli1.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.contact.MAJContract.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCFondation.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCMontage.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCDeroulage.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FContart.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FDivers.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FDeroulage.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FMontage.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.Factcli1.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FFondation.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_TRAVAUX.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_DEROULAGE.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_MONTAGE.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_fondation.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.fichier.harticle.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Menugen1.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.param.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.entete.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.changer.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Connect.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.secteura.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.secteur.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilisteartcli.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilisteart.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.impart.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilistefour.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.impfour.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.impcli.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilistecli.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.tarif.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Client.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Article.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.modalite.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.famille.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.compte.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.rayon.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.rechartmaj.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.recha.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.rechcli.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.propos1.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.demp.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.exercice.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Export_bd.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Import_bd.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.orgfour.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.orgclient.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.orgstk.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.parametres.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.pnumste.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.orgstkmag.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.orgdonne.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.propos.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.ste.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.ShadowForm.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.util.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Rechfact.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.purge.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Pnum.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Rep.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Rechart.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Rech.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Four.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.Properties.Resources.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\EPME.tva.resources
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ApplicationWindows\GEST FACT EPME\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\mansour\epme\GEST FACT EPME\bin\Debug\EPME.exe.config
+C:\mansour\epme\GEST FACT EPME\bin\Debug\EPME.exe
+C:\mansour\epme\GEST FACT EPME\bin\Debug\EPME.pdb
+C:\mansour\epme\GEST FACT EPME\bin\Debug\MySql.Data.dll
+C:\mansour\epme\GEST FACT EPME\bin\Debug\MySqlBackup.dll
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Contract.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.contact.MAJContractD.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.contact.MAJContract.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Etat_Contra.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCDIVERS.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCGarantie.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCAvance.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCDeroulageSections.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCFondationSections.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCMontageSections.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCFondation.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FCMontage.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FContart.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FDivers.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FDeroulage.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FMontage.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.Factcli1.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.FFondation.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_DDIERSC.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_TRAVAUXAV.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_TRAVAUXGR.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_DEROULAGEC.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_fondationC.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_MONTAGEC.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_DIVERS.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_TRAVAUX.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_DEROULAGE.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_MONTAGE.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Facture.rpt.frm_fondation.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.fichier.Ilistecli.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.impcli.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Menugen1.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.param.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.entete.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.changer.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Connect.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Client.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.modalite.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.famille.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.propos1.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.demp.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.exercice.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Export_bd.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Import_bd.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.parametres.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.pnumste.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.propos.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.ste.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.rechcli.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.ShadowForm.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.util.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Rechfact.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.purge.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Rech.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.Properties.Resources.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.tva.resources
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.exe
+C:\mansour\epme\GEST FACT EPME\obj\x86\Debug\EPME.pdb
